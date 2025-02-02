@@ -38,3 +38,6 @@
     - Case Study: E-commerce Application
 12. **Week 15**: Demo Day
 13. **Week 16**: Final Exam
+
+
+## Weeks 1-2
