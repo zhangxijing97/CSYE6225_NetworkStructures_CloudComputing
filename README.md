@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-| 📝 [Midterm Summary](https://e9f0hdfuau.sg.larksuite.com/docx/KWCxduodxoIDZ1xHFypla7vhgfc) | 📘 [Final Summary](./docs/final-summary.md) |
+| 📝 [Midterm Summary](./docs/midterm.md) | 📘 [Final Summary](./docs/final.md) |
 |-------------------------------------------------------------------------------------------|--------------------------------------------|
 
 ## M1
