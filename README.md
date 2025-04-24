@@ -2,6 +2,9 @@
 
 ## Table of Contents
 
+| 📝 [Midterm Summary](https://e9f0hdfuau.sg.larksuite.com/docx/KWCxduodxoIDZ1xHFypla7vhgfc) | 📘 [Final Summary](./docs/final-summary.md) |
+|-------------------------------------------------------------------------------------------|--------------------------------------------|
+
 ## M1
 
 ### Linux
